@@ -37,9 +37,10 @@ from sightengine.client import SightengineClient
 #client = SightengineClient('1128730833', 'NUbdpQmTJZ8vimupHt4N')
 
 #Nikhil's credential
-client = SightengineClient('87067536', 'XeJ4EhNkC9mYCsK8kWzn')
+#client = SightengineClient('87067536', 'XeJ4EhNkC9mYCsK8kWzn')
 
 #Madhan's credentials
+client = SightengineClient('1624310798', 'MyGgZE6DHjjD2C59ZtKo')
 
 #DJ's credentials
 
