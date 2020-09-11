@@ -1,0 +1,322 @@
+{
+  "status": "success",
+  "request": {
+    "id": "req_88GsGsfdsYrvIxuA7gjlP",
+    "timestamp": 1599629330.197305,
+    "operations": 68
+  },
+  "media": {
+    "id": "med_88GsVth4kwHnqa2PposEl",
+    "uri": "https://github.com/NikhilBhargav/sightEngine/blob/master/input/VID-20200908-WA0006.mp4?raw=true"
+  },
+  "data": {
+    "frames": [
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_1",
+          "position": 0
+        },
+        "weapon": 0.002,
+        "alcohol": 0.002,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_2",
+          "position": 1000
+        },
+        "weapon": 0.002,
+        "alcohol": 0.001,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_3",
+          "position": 2000
+        },
+        "weapon": 0.001,
+        "alcohol": 0.005,
+        "drugs": 0.003,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_4",
+          "position": 3000
+        },
+        "weapon": 0.001,
+        "alcohol": 0.006,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_5",
+          "position": 4000
+        },
+        "weapon": 0.001,
+        "alcohol": 0.006,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_6",
+          "position": 5000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_7",
+          "position": 6000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_8",
+          "position": 7000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_9",
+          "position": 8000
+        },
+        "weapon": 0,
+        "alcohol": 0.003,
+        "drugs": 0.003,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_10",
+          "position": 9000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_11",
+          "position": 10000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_12",
+          "position": 11000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.016,
+          "safe": 0.968,
+          "partial": 0.016
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_13",
+          "position": 12000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_14",
+          "position": 13000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_15",
+          "position": 14000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_16",
+          "position": 15000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88GsVth4kwHnqa2PposEl_17",
+          "position": 16000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "status": "success",
+  "request": {
+    "id": "req_88rGpXHa7ohVa91Br9GVl",
+    "timestamp": 1599574372.864994,
+    "operations": 68
+  },
+  "media": {
+    "id": "med_88rGiJjdgZzweWi39q3cY",
+    "uri": "https://github.com/NikhilBhargav/sightEngine/blob/master/input/VID-20200908-WA0000.mp4?raw=true"
+  },
+  "data": {
+    "frames": [
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_1",
+          "position": 0
+        },
+        "weapon": 0.004,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.033,
+          "partial": 0.957,
+          "partial_tag": "chest"
+        },
+        "faces": [
+          {
+            "x1": 0.4479,
+            "y1": 0.2465,
+            "x2": 0.6224,
+            "y2": 0.434,
+            "features": {
+              "left_eye": {
+                "x": 0.5571,
+                "y": 0.2432
+              },
+              "right_eye": {
+                "x": 0.5197,
+                "y": 0.2947
+              },
+              "nose_tip": {
+                "x": 0.5896,
+                "y": 0.2723
+              },
+              "left_mouth_corner": {
+                "x": 0.6175,
+                "y": 0.3258
+              },
+              "right_mouth_corner": {
+                "x": 0.589,
+                "y": 0.364
+              }
+            },
+            "attributes": {
+              "female": 0.86,
+              "male": 0.14,
+              "minor": 0.17,
+              "sunglasses": 0.07
+            }
+          }
+        ],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_2",
+          "position": 1000
+        },
+        "weapon": 0.003,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.083,
+          "partial": 0.907,
+          "partial_tag": "chest"
+        },
+        "faces": [
+          {
+            "x1": 0.4453,
+            "y1": 0.2465,
+            "x2": 0.6224,
+            "y2": 0.4375,
+            "features": {
+              "left_eye": {
+                "x": 0.5558,
+                "y": 0.2462
+              },
+              "right_eye": {
+                "x": 0.5149,
+                "y": 0.299
+              },
+              "nose_tip": {
+                "x": 0.5825,
+                "y": 0.2748
+              },
+              "left_mouth_corner": {
+                "x": 0.6117,
+                "y": 0.3254
+              },
+              "right_mouth_corner": {
+                "x": 0.5818,
+                "y": 0.3665
+              }
+            },
+            "attributes": {
+              "female": 0.53,
+              "male": 0.47,
+              "minor": 0.18,
+              "sunglasses": 0.1
+            }
+          }
+        ],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_3",
+          "position": 2000
+        },
+        "weapon": 0.003,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.912,
+          "partial": 0.078
+        },
+        "faces": [
+          {
+            "x1": 0.3359,
+            "y1": 0.2917,
+            "x2": 0.5313,
+            "y2": 0.5938,
+            "features": {
+              "left_eye": {
+                "x": 0.487,
+                "y": 0.3889
+              },
+              "right_eye": {
+                "x": 0.3958,
+                "y": 0.4236
+              },
+              "nose_tip": {
+                "x": 0.4661,
+                "y": 0.4583
+              },
+              "left_mouth_corner": {
+                "x": 0.5104,
+                "y": 0.5069
+              },
+              "right_mouth_corner": {
+                "x": 0.4297,
+                "y": 0.5347
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.38,
+              "sunglasses": 0.22
+            }
+          }
+        ],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_4",
+          "position": 3000
+        },
+        "weapon": 0.001,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_5",
+          "position": 4000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.089,
+          "partial": 0.901,
+          "partial_tag": "chest"
+        },
+        "faces": [
+          {
+            "x1": 0.487,
+            "y1": 0.3403,
+            "x2": 0.6771,
+            "y2": 0.6736,
+            "features": {
+              "left_eye": {
+                "x": 0.6406,
+                "y": 0.4618
+              },
+              "right_eye": {
+                "x": 0.5495,
+                "y": 0.4722
+              },
+              "nose_tip": {
+                "x": 0.6094,
+                "y": 0.5521
+              },
+              "left_mouth_corner": {
+                "x": 0.6484,
+                "y": 0.6042
+              },
+              "right_mouth_corner": {
+                "x": 0.5651,
+                "y": 0.6146
+              }
+            },
+            "attributes": {
+              "female": 0.56,
+              "male": 0.44,
+              "minor": 0.3,
+              "sunglasses": 0.8
+            }
+          }
+        ],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_6",
+          "position": 5000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.259,
+          "partial": 0.731,
+          "partial_tag": "chest"
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_7",
+          "position": 6000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.011,
+          "safe": 0.979,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_8",
+          "position": 7000
+        },
+        "weapon": 0,
+        "alcohol": 0.038,
+        "drugs": 0.003,
+        "nudity": {
+          "raw": 0.034,
+          "safe": 0.908,
+          "partial": 0.058
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_9",
+          "position": 8000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.003,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3464,
+            "y1": 0.5313,
+            "x2": 0.7396,
+            "y2": 1,
+            "features": {
+              "left_eye": {
+                "x": 0.7005,
+                "y": 0.7882
+              },
+              "right_eye": {
+                "x": 0.5547,
+                "y": 0.7882
+              },
+              "nose_tip": {
+                "x": 0.6875,
+                "y": 0.9271
+              },
+              "left_mouth_corner": {
+                "x": 0.6693,
+                "y": 1.066
+              },
+              "right_mouth_corner": {
+                "x": 0.5599,
+                "y": 1.0625
+              }
+            },
+            "attributes": {
+              "female": 0.9,
+              "male": 0.1,
+              "minor": 0.23,
+              "sunglasses": 0.07
+            }
+          }
+        ],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_10",
+          "position": 9000
+        },
+        "weapon": 0.01,
+        "alcohol": 0.003,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.526,
+          "safe": 0.01,
+          "partial": 0.464
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_11",
+          "position": 10000
+        },
+        "weapon": 0.004,
+        "alcohol": 0.003,
+        "drugs": 0.005,
+        "nudity": {
+          "raw": 0.1,
+          "safe": 0.85,
+          "partial": 0.05
+        },
+        "faces": [
+          {
+            "x1": 0.4609,
+            "y1": 0.309,
+            "x2": 0.7109,
+            "y2": 0.7431,
+            "features": {
+              "left_eye": {
+                "x": 0.7083,
+                "y": 0.4583
+              },
+              "right_eye": {
+                "x": 0.6198,
+                "y": 0.4514
+              },
+              "nose_tip": {
+                "x": 0.6953,
+                "y": 0.5625
+              },
+              "left_mouth_corner": {
+                "x": 0.6667,
+                "y": 0.6458
+              },
+              "right_mouth_corner": {
+                "x": 0.599,
+                "y": 0.6424
+              }
+            },
+            "attributes": {
+              "female": 0.18999999999999995,
+              "male": 0.81,
+              "minor": 0.42,
+              "sunglasses": 0.52
+            }
+          }
+        ],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_12",
+          "position": 11000
+        },
+        "weapon": 0.001,
+        "alcohol": 0.006,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_13",
+          "position": 12000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_14",
+          "position": 13000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_15",
+          "position": 14000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_16",
+          "position": 15000
+        },
+        "weapon": 0.01,
+        "alcohol": 0.016,
+        "drugs": 0.009,
+        "nudity": {
+          "raw": 0.675,
+          "safe": 0.315,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88rGiJjdgZzweWi39q3cY_17",
+          "position": 16000
+        },
+        "weapon": 0.006,
+        "alcohol": 0.026,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      }
+    ]
+  }
+}

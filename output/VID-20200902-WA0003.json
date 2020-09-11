@@ -1,0 +1,4038 @@
+{
+  "status": "success",
+  "request": {
+    "id": "req_86qbxDx5jkJB5fo5j1WAh",
+    "timestamp": 1599107491.461119,
+    "operations": 204
+  },
+  "media": {
+    "id": "med_86qbqzKfap1kDBgJoexL8",
+    "uri": "https://github.com/NikhilBhargav/sightEngine/blob/master/input/VID-20200902-WA0003.mp4?raw=true"
+  },
+  "data": {
+    "frames": [
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_1",
+          "position": 0
+        },
+        "weapon": 0.002,
+        "alcohol": 0,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.036,
+          "safe": 0.954,
+          "partial": 0.01
+        },
+        "faces": [],
+        "sharpness": 0.901,
+        "brightness": 0.653,
+        "contrast": 0.917,
+        "colors": {
+          "dominant": {
+            "r": 55,
+            "g": 50,
+            "b": 42,
+            "hex": "#37322a"
+          },
+          "other": [
+            {
+              "r": 224,
+              "g": 231,
+              "b": 235,
+              "hex": "#e0e7eb"
+            },
+            {
+              "r": 127,
+              "g": 114,
+              "b": 94,
+              "hex": "#7f725e"
+            },
+            {
+              "r": 103,
+              "g": 84,
+              "b": 75,
+              "hex": "#67544b"
+            },
+            {
+              "r": 134,
+              "g": 133,
+              "b": 143,
+              "hex": "#86858f"
+            },
+            {
+              "r": 164,
+              "g": 148,
+              "b": 142,
+              "hex": "#a4948e"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.522,
+          "has_natural": 0.1044,
+          "boxes": [
+            {
+              "x1": 0.21736,
+              "y1": 0,
+              "x2": 0.57911,
+              "y2": 0.06316,
+              "label": "text-artificial",
+              "prob": 0.522
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_2",
+          "position": 1000
+        },
+        "weapon": 0.002,
+        "alcohol": 0,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.037,
+          "safe": 0.953,
+          "partial": 0.01
+        },
+        "faces": [],
+        "sharpness": 0.901,
+        "brightness": 0.653,
+        "contrast": 0.917,
+        "colors": {
+          "dominant": {
+            "r": 55,
+            "g": 50,
+            "b": 42,
+            "hex": "#37322a"
+          },
+          "other": [
+            {
+              "r": 224,
+              "g": 231,
+              "b": 235,
+              "hex": "#e0e7eb"
+            },
+            {
+              "r": 127,
+              "g": 114,
+              "b": 94,
+              "hex": "#7f725e"
+            },
+            {
+              "r": 103,
+              "g": 84,
+              "b": 75,
+              "hex": "#67544b"
+            },
+            {
+              "r": 133,
+              "g": 133,
+              "b": 143,
+              "hex": "#85858f"
+            },
+            {
+              "r": 164,
+              "g": 148,
+              "b": 142,
+              "hex": "#a4948e"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.01,
+          "has_natural": 0.01
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_3",
+          "position": 2000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.013,
+          "safe": 0.977,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.0647,
+            "y1": 0.3772,
+            "x2": 0.4085,
+            "y2": 0.6272,
+            "features": {
+              "left_eye": {
+                "x": 0.3431,
+                "y": 0.5854
+              },
+              "right_eye": {
+                "x": 0.2874,
+                "y": 0.5068
+              },
+              "nose_tip": {
+                "x": 0.2968,
+                "y": 0.6302
+              },
+              "left_mouth_corner": {
+                "x": 0.2097,
+                "y": 0.6624
+              },
+              "right_mouth_corner": {
+                "x": 0.1577,
+                "y": 0.5946
+              }
+            },
+            "attributes": {
+              "female": 0.9,
+              "male": 0.1,
+              "minor": 0.12,
+              "sunglasses": 0.7
+            }
+          }
+        ],
+        "sharpness": 0.87,
+        "brightness": 0.34,
+        "contrast": 0.925,
+        "colors": {
+          "dominant": {
+            "r": 49,
+            "g": 46,
+            "b": 34,
+            "hex": "#312e22"
+          },
+          "other": [
+            {
+              "r": 189,
+              "g": 205,
+              "b": 218,
+              "hex": "#bdcdda"
+            },
+            {
+              "r": 112,
+              "g": 116,
+              "b": 132,
+              "hex": "#707484"
+            },
+            {
+              "r": 147,
+              "g": 157,
+              "b": 151,
+              "hex": "#939d97"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.882,
+          "has_natural": 0.1764,
+          "boxes": [
+            {
+              "x1": 0.79549,
+              "y1": 0.91009,
+              "x2": 0.97507,
+              "y2": 0.98941,
+              "label": "text-artificial",
+              "prob": 0.882
+            },
+            {
+              "x1": 0.21856,
+              "y1": 0,
+              "x2": 0.57257,
+              "y2": 0.06575,
+              "label": "text-artificial",
+              "prob": 0.677
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_4",
+          "position": 3000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.005,
+        "nudity": {
+          "raw": 0.013,
+          "safe": 0.977,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.317,
+            "y1": 0.2321,
+            "x2": 0.683,
+            "y2": 0.6741,
+            "features": {
+              "left_eye": {
+                "x": 0.5938,
+                "y": 0.442
+              },
+              "right_eye": {
+                "x": 0.471,
+                "y": 0.3906
+              },
+              "nose_tip": {
+                "x": 0.5134,
+                "y": 0.4911
+              },
+              "left_mouth_corner": {
+                "x": 0.5089,
+                "y": 0.5826
+              },
+              "right_mouth_corner": {
+                "x": 0.4018,
+                "y": 0.5335
+              }
+            },
+            "attributes": {
+              "female": 0.94,
+              "male": 0.06,
+              "minor": 0.02,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.837,
+        "brightness": 0.15,
+        "contrast": 0.912,
+        "colors": {
+          "dominant": {
+            "r": 29,
+            "g": 27,
+            "b": 18,
+            "hex": "#1d1b12"
+          },
+          "other": [
+            {
+              "r": 162,
+              "g": 175,
+              "b": 194,
+              "hex": "#a2afc2"
+            },
+            {
+              "r": 132,
+              "g": 102,
+              "b": 88,
+              "hex": "#846658"
+            },
+            {
+              "r": 98,
+              "g": 93,
+              "b": 92,
+              "hex": "#625d5c"
+            },
+            {
+              "r": 150,
+              "g": 136,
+              "b": 125,
+              "hex": "#96887d"
+            },
+            {
+              "r": 108,
+              "g": 108,
+              "b": 140,
+              "hex": "#6c6c8c"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.613,
+          "has_natural": 0.753,
+          "boxes": [
+            {
+              "x1": 0.79673,
+              "y1": 0.91224,
+              "x2": 0.98326,
+              "y2": 0.98972,
+              "label": "text-artificial",
+              "prob": 0.613
+            },
+            {
+              "x1": 0.21393,
+              "y1": 0,
+              "x2": 0.57394,
+              "y2": 0.07464,
+              "label": "text-natural",
+              "prob": 0.753
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_5",
+          "position": 4000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3013,
+            "y1": 0.2567,
+            "x2": 0.7188,
+            "y2": 0.7165,
+            "features": {
+              "left_eye": {
+                "x": 0.6272,
+                "y": 0.5045
+              },
+              "right_eye": {
+                "x": 0.5112,
+                "y": 0.433
+              },
+              "nose_tip": {
+                "x": 0.5647,
+                "y": 0.5625
+              },
+              "left_mouth_corner": {
+                "x": 0.5313,
+                "y": 0.6362
+              },
+              "right_mouth_corner": {
+                "x": 0.4241,
+                "y": 0.5737
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.03,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.897,
+        "brightness": 0.274,
+        "contrast": 0.93,
+        "colors": {
+          "dominant": {
+            "r": 41,
+            "g": 36,
+            "b": 29,
+            "hex": "#29241d"
+          },
+          "other": [
+            {
+              "r": 204,
+              "g": 205,
+              "b": 212,
+              "hex": "#cccdd4"
+            },
+            {
+              "r": 166,
+              "g": 135,
+              "b": 119,
+              "hex": "#a68777"
+            },
+            {
+              "r": 120,
+              "g": 110,
+              "b": 98,
+              "hex": "#786e62"
+            },
+            {
+              "r": 160,
+              "g": 149,
+              "b": 157,
+              "hex": "#a0959d"
+            },
+            {
+              "r": 164,
+              "g": 168,
+              "b": 124,
+              "hex": "#a4a87c"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.1832,
+          "has_natural": 0.916,
+          "boxes": [
+            {
+              "x1": 0.21276,
+              "y1": 0,
+              "x2": 0.59784,
+              "y2": 0.08009,
+              "label": "text-natural",
+              "prob": 0.916
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.04,
+          "boxes": [
+            {
+              "x1": 0.1918,
+              "y1": 0.18513,
+              "x2": 0.47243,
+              "y2": 0.63351,
+              "label": "middlefinger",
+              "prob": 0.04
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_6",
+          "position": 5000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.006,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.2835,
+            "y1": 0.2455,
+            "x2": 0.6942,
+            "y2": 0.7165,
+            "features": {
+              "left_eye": {
+                "x": 0.6116,
+                "y": 0.4665
+              },
+              "right_eye": {
+                "x": 0.4576,
+                "y": 0.4241
+              },
+              "nose_tip": {
+                "x": 0.5491,
+                "y": 0.5424
+              },
+              "left_mouth_corner": {
+                "x": 0.5357,
+                "y": 0.6272
+              },
+              "right_mouth_corner": {
+                "x": 0.4263,
+                "y": 0.5915
+              }
+            },
+            "attributes": {
+              "female": 0.94,
+              "male": 0.06,
+              "minor": 0.08,
+              "sunglasses": 0.02
+            }
+          }
+        ],
+        "sharpness": 0.913,
+        "brightness": 0.342,
+        "contrast": 0.927,
+        "colors": {
+          "dominant": {
+            "r": 212,
+            "g": 209,
+            "b": 208,
+            "hex": "#d4d1d0"
+          },
+          "other": [
+            {
+              "r": 43,
+              "g": 38,
+              "b": 30,
+              "hex": "#2b261e"
+            },
+            {
+              "r": 141,
+              "g": 120,
+              "b": 103,
+              "hex": "#8d7867"
+            },
+            {
+              "r": 165,
+              "g": 167,
+              "b": 160,
+              "hex": "#a5a7a0"
+            },
+            {
+              "r": 100,
+              "g": 110,
+              "b": 99,
+              "hex": "#646e63"
+            },
+            {
+              "r": 145,
+              "g": 146,
+              "b": 158,
+              "hex": "#91929e"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.1744,
+          "has_natural": 0.872,
+          "boxes": [
+            {
+              "x1": 0.2142,
+              "y1": 0,
+              "x2": 0.55438,
+              "y2": 0.0783,
+              "label": "text-natural",
+              "prob": 0.872
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.26,
+          "boxes": [
+            {
+              "x1": 0.20967,
+              "y1": 0.1831,
+              "x2": 0.50271,
+              "y2": 0.64507,
+              "label": "middlefinger",
+              "prob": 0.26
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_7",
+          "position": 6000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3616,
+            "y1": 0.2143,
+            "x2": 0.7232,
+            "y2": 0.6161,
+            "features": {
+              "left_eye": {
+                "x": 0.6406,
+                "y": 0.4487
+              },
+              "right_eye": {
+                "x": 0.5424,
+                "y": 0.3705
+              },
+              "nose_tip": {
+                "x": 0.5759,
+                "y": 0.4955
+              },
+              "left_mouth_corner": {
+                "x": 0.5335,
+                "y": 0.5647
+              },
+              "right_mouth_corner": {
+                "x": 0.4554,
+                "y": 0.5022
+              }
+            },
+            "attributes": {
+              "female": 0.94,
+              "male": 0.06,
+              "minor": 0.03,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.924,
+        "brightness": 0.351,
+        "contrast": 0.922,
+        "colors": {
+          "dominant": {
+            "r": 211,
+            "g": 206,
+            "b": 203,
+            "hex": "#d3cecb"
+          },
+          "other": [
+            {
+              "r": 48,
+              "g": 42,
+              "b": 32,
+              "hex": "#302a20"
+            },
+            {
+              "r": 145,
+              "g": 123,
+              "b": 104,
+              "hex": "#917b68"
+            },
+            {
+              "r": 164,
+              "g": 165,
+              "b": 160,
+              "hex": "#a4a5a0"
+            },
+            {
+              "r": 104,
+              "g": 111,
+              "b": 99,
+              "hex": "#686f63"
+            },
+            {
+              "r": 142,
+              "g": 145,
+              "b": 158,
+              "hex": "#8e919e"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.162,
+          "has_natural": 0.81,
+          "boxes": [
+            {
+              "x1": 0.20837,
+              "y1": 0,
+              "x2": 0.57867,
+              "y2": 0.08194,
+              "label": "text-natural",
+              "prob": 0.81
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.51,
+          "boxes": [
+            {
+              "x1": 0.20705,
+              "y1": 0.15856,
+              "x2": 0.50663,
+              "y2": 0.60955,
+              "label": "middlefinger",
+              "prob": 0.51
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_8",
+          "position": 7000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.003,
+        "nudity": {
+          "raw": 0.034,
+          "safe": 0.956,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.0402,
+            "y1": 0.2723,
+            "x2": 0.4866,
+            "y2": 0.6406,
+            "features": {
+              "left_eye": {
+                "x": 0.4013,
+                "y": 0.5209
+              },
+              "right_eye": {
+                "x": 0.2805,
+                "y": 0.3922
+              },
+              "nose_tip": {
+                "x": 0.3098,
+                "y": 0.5634
+              },
+              "left_mouth_corner": {
+                "x": 0.2463,
+                "y": 0.6722
+              },
+              "right_mouth_corner": {
+                "x": 0.1406,
+                "y": 0.5606
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.09,
+              "sunglasses": 0.04
+            }
+          }
+        ],
+        "sharpness": 0.908,
+        "brightness": 0.657,
+        "contrast": 0.92,
+        "colors": {
+          "dominant": {
+            "r": 221,
+            "g": 220,
+            "b": 216,
+            "hex": "#dddcd8"
+          },
+          "other": [
+            {
+              "r": 54,
+              "g": 50,
+              "b": 42,
+              "hex": "#36322a"
+            },
+            {
+              "r": 110,
+              "g": 83,
+              "b": 71,
+              "hex": "#6e5347"
+            },
+            {
+              "r": 141,
+              "g": 113,
+              "b": 95,
+              "hex": "#8d715f"
+            },
+            {
+              "r": 137,
+              "g": 134,
+              "b": 144,
+              "hex": "#898690"
+            },
+            {
+              "r": 92,
+              "g": 116,
+              "b": 116,
+              "hex": "#5c7474"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.121,
+          "has_natural": 0.605,
+          "boxes": [
+            {
+              "x1": 0.17936,
+              "y1": 0,
+              "x2": 0.60995,
+              "y2": 0.07134,
+              "label": "text-natural",
+              "prob": 0.605
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_9",
+          "position": 8000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.005,
+        "nudity": {
+          "raw": 0.975,
+          "safe": 0.015,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.0313,
+            "y1": 0.2344,
+            "x2": 0.4911,
+            "y2": 0.5826,
+            "features": {
+              "left_eye": {
+                "x": 0.3999,
+                "y": 0.532
+              },
+              "right_eye": {
+                "x": 0.3036,
+                "y": 0.4098
+              },
+              "nose_tip": {
+                "x": 0.339,
+                "y": 0.5827
+              },
+              "left_mouth_corner": {
+                "x": 0.2549,
+                "y": 0.6647
+              },
+              "right_mouth_corner": {
+                "x": 0.1706,
+                "y": 0.5768
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.12,
+              "sunglasses": 0.05
+            }
+          }
+        ],
+        "sharpness": 0.864,
+        "brightness": 0.407,
+        "contrast": 0.931,
+        "colors": {
+          "dominant": {
+            "r": 217,
+            "g": 228,
+            "b": 236,
+            "hex": "#d9e4ec"
+          },
+          "other": [
+            {
+              "r": 54,
+              "g": 46,
+              "b": 34,
+              "hex": "#362e22"
+            },
+            {
+              "r": 174,
+              "g": 185,
+              "b": 193,
+              "hex": "#aeb9c1"
+            },
+            {
+              "r": 144,
+              "g": 119,
+              "b": 101,
+              "hex": "#907765"
+            },
+            {
+              "r": 144,
+              "g": 146,
+              "b": 162,
+              "hex": "#9092a2"
+            },
+            {
+              "r": 116,
+              "g": 118,
+              "b": 127,
+              "hex": "#74767f"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.1108,
+          "has_natural": 0.554,
+          "boxes": [
+            {
+              "x1": 0.21619,
+              "y1": 0.00428,
+              "x2": 0.6432,
+              "y2": 0.07328,
+              "label": "text-natural",
+              "prob": 0.554
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_10",
+          "position": 9000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.006,
+        "nudity": {
+          "raw": 0.433,
+          "safe": 0.557,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.0692,
+            "y1": 0.3013,
+            "x2": 0.5179,
+            "y2": 0.6183,
+            "features": {
+              "left_eye": {
+                "x": 0.4424,
+                "y": 0.5565
+              },
+              "right_eye": {
+                "x": 0.3622,
+                "y": 0.4533
+              },
+              "nose_tip": {
+                "x": 0.3923,
+                "y": 0.6215
+              },
+              "left_mouth_corner": {
+                "x": 0.2893,
+                "y": 0.6887
+              },
+              "right_mouth_corner": {
+                "x": 0.2253,
+                "y": 0.6045
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.07,
+              "sunglasses": 0.04
+            }
+          }
+        ],
+        "sharpness": 0.869,
+        "brightness": 0.386,
+        "contrast": 0.933,
+        "colors": {
+          "dominant": {
+            "r": 57,
+            "g": 48,
+            "b": 37,
+            "hex": "#393025"
+          },
+          "other": [
+            {
+              "r": 207,
+              "g": 217,
+              "b": 227,
+              "hex": "#cfd9e3"
+            },
+            {
+              "r": 151,
+              "g": 156,
+              "b": 170,
+              "hex": "#979caa"
+            },
+            {
+              "r": 130,
+              "g": 125,
+              "b": 125,
+              "hex": "#827d7d"
+            },
+            {
+              "r": 162,
+              "g": 133,
+              "b": 113,
+              "hex": "#a28571"
+            },
+            {
+              "r": 181,
+              "g": 199,
+              "b": 108,
+              "hex": "#b5c76c"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.752,
+          "has_natural": 0.631,
+          "boxes": [
+            {
+              "x1": 0.78712,
+              "y1": 0.90953,
+              "x2": 0.97893,
+              "y2": 0.99132,
+              "label": "text-artificial",
+              "prob": 0.752
+            },
+            {
+              "x1": 0.2167,
+              "y1": 0,
+              "x2": 0.62588,
+              "y2": 0.06701,
+              "label": "text-natural",
+              "prob": 0.631
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_11",
+          "position": 10000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.004,
+        "nudity": {
+          "raw": 0.956,
+          "safe": 0.034,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.2366,
+            "y1": 0.3147,
+            "x2": 0.567,
+            "y2": 0.7031,
+            "features": {
+              "left_eye": {
+                "x": 0.471,
+                "y": 0.5067
+              },
+              "right_eye": {
+                "x": 0.3705,
+                "y": 0.4955
+              },
+              "nose_tip": {
+                "x": 0.4219,
+                "y": 0.5915
+              },
+              "left_mouth_corner": {
+                "x": 0.4286,
+                "y": 0.6317
+              },
+              "right_mouth_corner": {
+                "x": 0.3549,
+                "y": 0.6295
+              }
+            },
+            "attributes": {
+              "female": 0.95,
+              "male": 0.05,
+              "minor": 0.09,
+              "sunglasses": 0.1
+            }
+          }
+        ],
+        "sharpness": 0.873,
+        "brightness": 0.387,
+        "contrast": 0.932,
+        "colors": {
+          "dominant": {
+            "r": 56,
+            "g": 48,
+            "b": 38,
+            "hex": "#383026"
+          },
+          "other": [
+            {
+              "r": 206,
+              "g": 217,
+              "b": 227,
+              "hex": "#ced9e3"
+            },
+            {
+              "r": 150,
+              "g": 156,
+              "b": 171,
+              "hex": "#969cab"
+            },
+            {
+              "r": 130,
+              "g": 124,
+              "b": 124,
+              "hex": "#827c7c"
+            },
+            {
+              "r": 162,
+              "g": 133,
+              "b": 114,
+              "hex": "#a28572"
+            },
+            {
+              "r": 181,
+              "g": 194,
+              "b": 106,
+              "hex": "#b5c26a"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.669,
+          "has_natural": 0.567,
+          "boxes": [
+            {
+              "x1": 0.78544,
+              "y1": 0.91208,
+              "x2": 0.97286,
+              "y2": 0.98992,
+              "label": "text-artificial",
+              "prob": 0.669
+            },
+            {
+              "x1": 0.21404,
+              "y1": 0,
+              "x2": 0.59765,
+              "y2": 0.05805,
+              "label": "text-natural",
+              "prob": 0.567
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_12",
+          "position": 11000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.007,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.1116,
+            "y1": 0.2366,
+            "x2": 0.5201,
+            "y2": 0.7344,
+            "features": {
+              "left_eye": {
+                "x": 0.4487,
+                "y": 0.5067
+              },
+              "right_eye": {
+                "x": 0.3237,
+                "y": 0.433
+              },
+              "nose_tip": {
+                "x": 0.3884,
+                "y": 0.5781
+              },
+              "left_mouth_corner": {
+                "x": 0.3348,
+                "y": 0.6607
+              },
+              "right_mouth_corner": {
+                "x": 0.2366,
+                "y": 0.6049
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.06,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.867,
+        "brightness": 0.396,
+        "contrast": 0.93,
+        "colors": {
+          "dominant": {
+            "r": 60,
+            "g": 50,
+            "b": 41,
+            "hex": "#3c3229"
+          },
+          "other": [
+            {
+              "r": 206,
+              "g": 218,
+              "b": 228,
+              "hex": "#cedae4"
+            },
+            {
+              "r": 150,
+              "g": 155,
+              "b": 171,
+              "hex": "#969bab"
+            },
+            {
+              "r": 134,
+              "g": 124,
+              "b": 123,
+              "hex": "#867c7b"
+            },
+            {
+              "r": 168,
+              "g": 136,
+              "b": 117,
+              "hex": "#a88875"
+            },
+            {
+              "r": 182,
+              "g": 198,
+              "b": 109,
+              "hex": "#b6c66d"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.746,
+          "has_natural": 0.747,
+          "boxes": [
+            {
+              "x1": 0.78614,
+              "y1": 0.91416,
+              "x2": 0.97172,
+              "y2": 0.98874,
+              "label": "text-artificial",
+              "prob": 0.746
+            },
+            {
+              "x1": 0.22349,
+              "y1": 0.00133,
+              "x2": 0.60882,
+              "y2": 0.06961,
+              "label": "text-natural",
+              "prob": 0.747
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_13",
+          "position": 12000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.004,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.058,
+            "y1": 0.1719,
+            "x2": 0.5134,
+            "y2": 0.7165,
+            "features": {
+              "left_eye": {
+                "x": 0.433,
+                "y": 0.4621
+              },
+              "right_eye": {
+                "x": 0.3103,
+                "y": 0.3839
+              },
+              "nose_tip": {
+                "x": 0.3884,
+                "y": 0.5268
+              },
+              "left_mouth_corner": {
+                "x": 0.3259,
+                "y": 0.6183
+              },
+              "right_mouth_corner": {
+                "x": 0.2277,
+                "y": 0.5536
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.04,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.867,
+        "brightness": 0.356,
+        "contrast": 0.931,
+        "colors": {
+          "dominant": {
+            "r": 213,
+            "g": 223,
+            "b": 233,
+            "hex": "#d5dfe9"
+          },
+          "other": [
+            {
+              "r": 50,
+              "g": 41,
+              "b": 30,
+              "hex": "#32291e"
+            },
+            {
+              "r": 166,
+              "g": 176,
+              "b": 187,
+              "hex": "#a6b0bb"
+            },
+            {
+              "r": 136,
+              "g": 136,
+              "b": 155,
+              "hex": "#88889b"
+            },
+            {
+              "r": 134,
+              "g": 108,
+              "b": 96,
+              "hex": "#866c60"
+            },
+            {
+              "r": 108,
+              "g": 109,
+              "b": 117,
+              "hex": "#6c6d75"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.634,
+          "has_natural": 0.1268,
+          "boxes": [
+            {
+              "x1": 0.78859,
+              "y1": 0.90931,
+              "x2": 0.98262,
+              "y2": 0.99302,
+              "label": "text-artificial",
+              "prob": 0.634
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_14",
+          "position": 13000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.005,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.1719,
+            "y1": 0.2478,
+            "x2": 0.6049,
+            "y2": 0.7701,
+            "features": {
+              "left_eye": {
+                "x": 0.4911,
+                "y": 0.4978
+              },
+              "right_eye": {
+                "x": 0.3616,
+                "y": 0.4732
+              },
+              "nose_tip": {
+                "x": 0.4375,
+                "y": 0.5781
+              },
+              "left_mouth_corner": {
+                "x": 0.4464,
+                "y": 0.6496
+              },
+              "right_mouth_corner": {
+                "x": 0.3326,
+                "y": 0.6272
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.07,
+              "sunglasses": 0.02
+            }
+          }
+        ],
+        "sharpness": 0.927,
+        "brightness": 0.246,
+        "contrast": 0.925,
+        "colors": {
+          "dominant": {
+            "r": 44,
+            "g": 37,
+            "b": 26,
+            "hex": "#2c251a"
+          },
+          "other": [
+            {
+              "r": 188,
+              "g": 196,
+              "b": 210,
+              "hex": "#bcc4d2"
+            },
+            {
+              "r": 112,
+              "g": 110,
+              "b": 118,
+              "hex": "#706e76"
+            },
+            {
+              "r": 148,
+              "g": 122,
+              "b": 112,
+              "hex": "#947a70"
+            },
+            {
+              "r": 161,
+              "g": 165,
+              "b": 131,
+              "hex": "#a1a583"
+            },
+            {
+              "r": 140,
+              "g": 132,
+              "b": 156,
+              "hex": "#8c849c"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.858,
+          "has_natural": 0.756,
+          "boxes": [
+            {
+              "x1": 0.78654,
+              "y1": 0.91139,
+              "x2": 0.9739,
+              "y2": 0.99245,
+              "label": "text-artificial",
+              "prob": 0.858
+            },
+            {
+              "x1": 0.22909,
+              "y1": 0,
+              "x2": 0.5933,
+              "y2": 0.07476,
+              "label": "text-natural",
+              "prob": 0.756
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_15",
+          "position": 14000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.589,
+          "safe": 0.401,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.4107,
+            "y1": 0.2879,
+            "x2": 0.8147,
+            "y2": 0.7433,
+            "features": {
+              "left_eye": {
+                "x": 0.7143,
+                "y": 0.5022
+              },
+              "right_eye": {
+                "x": 0.5982,
+                "y": 0.4487
+              },
+              "nose_tip": {
+                "x": 0.6518,
+                "y": 0.5536
+              },
+              "left_mouth_corner": {
+                "x": 0.6451,
+                "y": 0.6272
+              },
+              "right_mouth_corner": {
+                "x": 0.5446,
+                "y": 0.5781
+              }
+            },
+            "attributes": {
+              "female": 0.98,
+              "male": 0.02,
+              "minor": 0.02,
+              "sunglasses": 0.04
+            }
+          }
+        ],
+        "sharpness": 0.938,
+        "brightness": 0.357,
+        "contrast": 0.891,
+        "colors": {
+          "dominant": {
+            "r": 54,
+            "g": 44,
+            "b": 32,
+            "hex": "#362c20"
+          },
+          "other": [
+            {
+              "r": 203,
+              "g": 179,
+              "b": 160,
+              "hex": "#cbb3a0"
+            },
+            {
+              "r": 156,
+              "g": 130,
+              "b": 109,
+              "hex": "#9c826d"
+            },
+            {
+              "r": 146,
+              "g": 148,
+              "b": 162,
+              "hex": "#9294a2"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.975,
+          "has_natural": 0.195,
+          "boxes": [
+            {
+              "x1": 0.79341,
+              "y1": 0.9097,
+              "x2": 0.9821,
+              "y2": 0.99573,
+              "label": "text-artificial",
+              "prob": 0.975
+            },
+            {
+              "x1": 0.21088,
+              "y1": 0,
+              "x2": 0.56964,
+              "y2": 0.07495,
+              "label": "text-artificial",
+              "prob": 0.768
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.63,
+          "boxes": [
+            {
+              "x1": 0.22392,
+              "y1": 0.25099,
+              "x2": 0.59516,
+              "y2": 0.68952,
+              "label": "middlefinger",
+              "prob": 0.63
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_16",
+          "position": 15000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.231,
+          "safe": 0.759,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.4688,
+            "y1": 0.2545,
+            "x2": 0.8237,
+            "y2": 0.7098,
+            "features": {
+              "left_eye": {
+                "x": 0.7589,
+                "y": 0.4978
+              },
+              "right_eye": {
+                "x": 0.6362,
+                "y": 0.4219
+              },
+              "nose_tip": {
+                "x": 0.6696,
+                "y": 0.5536
+              },
+              "left_mouth_corner": {
+                "x": 0.6518,
+                "y": 0.6362
+              },
+              "right_mouth_corner": {
+                "x": 0.5469,
+                "y": 0.5692
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.12,
+              "sunglasses": 0.03
+            }
+          }
+        ],
+        "sharpness": 0.949,
+        "brightness": 0.442,
+        "contrast": 0.902,
+        "colors": {
+          "dominant": {
+            "r": 176,
+            "g": 156,
+            "b": 140,
+            "hex": "#b09c8c"
+          },
+          "accent": [
+            {
+              "r": 150,
+              "g": 31,
+              "b": 60,
+              "hex": "#961f3c"
+            }
+          ],
+          "other": [
+            {
+              "r": 35,
+              "g": 29,
+              "b": 18,
+              "hex": "#231d12"
+            },
+            {
+              "r": 91,
+              "g": 53,
+              "b": 44,
+              "hex": "#5b352c"
+            },
+            {
+              "r": 104,
+              "g": 80,
+              "b": 63,
+              "hex": "#68503f"
+            },
+            {
+              "r": 101,
+              "g": 93,
+              "b": 89,
+              "hex": "#655d59"
+            },
+            {
+              "r": 223,
+              "g": 218,
+              "b": 198,
+              "hex": "#dfdac6"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.975,
+          "has_natural": 0.195,
+          "boxes": [
+            {
+              "x1": 0.79617,
+              "y1": 0.90905,
+              "x2": 0.98458,
+              "y2": 0.99479,
+              "label": "text-artificial",
+              "prob": 0.975
+            },
+            {
+              "x1": 0.20847,
+              "y1": 0,
+              "x2": 0.57266,
+              "y2": 0.07321,
+              "label": "text-artificial",
+              "prob": 0.821
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.84,
+          "boxes": [
+            {
+              "x1": 0.22087,
+              "y1": 0.22978,
+              "x2": 0.5952,
+              "y2": 0.68019,
+              "label": "middlefinger",
+              "prob": 0.84
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_17",
+          "position": 16000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.4665,
+            "y1": 0.2165,
+            "x2": 0.8326,
+            "y2": 0.721,
+            "features": {
+              "left_eye": {
+                "x": 0.7567,
+                "y": 0.471
+              },
+              "right_eye": {
+                "x": 0.6295,
+                "y": 0.4129
+              },
+              "nose_tip": {
+                "x": 0.683,
+                "y": 0.5446
+              },
+              "left_mouth_corner": {
+                "x": 0.6786,
+                "y": 0.6272
+              },
+              "right_mouth_corner": {
+                "x": 0.567,
+                "y": 0.5781
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.07,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.953,
+        "brightness": 0.513,
+        "contrast": 0.902,
+        "colors": {
+          "dominant": {
+            "r": 186,
+            "g": 168,
+            "b": 151,
+            "hex": "#baa897"
+          },
+          "accent": [
+            {
+              "r": 179,
+              "g": 28,
+              "b": 84,
+              "hex": "#b31c54"
+            },
+            {
+              "r": 109,
+              "g": 22,
+              "b": 38,
+              "hex": "#6d1626"
+            },
+            {
+              "r": 108,
+              "g": 56,
+              "b": 68,
+              "hex": "#6c3844"
+            }
+          ],
+          "other": [
+            {
+              "r": 47,
+              "g": 37,
+              "b": 24,
+              "hex": "#2f2518"
+            },
+            {
+              "r": 109,
+              "g": 101,
+              "b": 93,
+              "hex": "#6d655d"
+            },
+            {
+              "r": 115,
+              "g": 88,
+              "b": 62,
+              "hex": "#73583e"
+            },
+            {
+              "r": 235,
+              "g": 231,
+              "b": 220,
+              "hex": "#ebe7dc"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.959,
+          "has_natural": 0.1918,
+          "boxes": [
+            {
+              "x1": 0.7968,
+              "y1": 0.91074,
+              "x2": 0.98251,
+              "y2": 0.99437,
+              "label": "text-artificial",
+              "prob": 0.959
+            },
+            {
+              "x1": 0.21266,
+              "y1": 0,
+              "x2": 0.56957,
+              "y2": 0.07601,
+              "label": "text-artificial",
+              "prob": 0.917
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.91,
+          "boxes": [
+            {
+              "x1": 0.24089,
+              "y1": 0.23535,
+              "x2": 0.6001,
+              "y2": 0.70353,
+              "label": "middlefinger",
+              "prob": 0.91
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_18",
+          "position": 17000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.4263,
+            "y1": 0.2277,
+            "x2": 0.8326,
+            "y2": 0.7054,
+            "features": {
+              "left_eye": {
+                "x": 0.75,
+                "y": 0.4732
+              },
+              "right_eye": {
+                "x": 0.6071,
+                "y": 0.4241
+              },
+              "nose_tip": {
+                "x": 0.6719,
+                "y": 0.5201
+              },
+              "left_mouth_corner": {
+                "x": 0.6629,
+                "y": 0.6272
+              },
+              "right_mouth_corner": {
+                "x": 0.558,
+                "y": 0.5893
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.06,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.954,
+        "brightness": 0.507,
+        "contrast": 0.901,
+        "colors": {
+          "dominant": {
+            "r": 48,
+            "g": 37,
+            "b": 25,
+            "hex": "#302519"
+          },
+          "accent": [
+            {
+              "r": 176,
+              "g": 30,
+              "b": 81,
+              "hex": "#b01e51"
+            },
+            {
+              "r": 113,
+              "g": 21,
+              "b": 36,
+              "hex": "#711524"
+            },
+            {
+              "r": 108,
+              "g": 60,
+              "b": 68,
+              "hex": "#6c3c44"
+            }
+          ],
+          "other": [
+            {
+              "r": 197,
+              "g": 182,
+              "b": 166,
+              "hex": "#c5b6a6"
+            },
+            {
+              "r": 117,
+              "g": 105,
+              "b": 98,
+              "hex": "#756962"
+            },
+            {
+              "r": 119,
+              "g": 90,
+              "b": 69,
+              "hex": "#775a45"
+            },
+            {
+              "r": 154,
+              "g": 115,
+              "b": 106,
+              "hex": "#9a736a"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.954,
+          "has_natural": 0.1908,
+          "boxes": [
+            {
+              "x1": 0.7969,
+              "y1": 0.90765,
+              "x2": 0.98311,
+              "y2": 0.99332,
+              "label": "text-artificial",
+              "prob": 0.954
+            },
+            {
+              "x1": 0.21159,
+              "y1": 0,
+              "x2": 0.57071,
+              "y2": 0.07514,
+              "label": "text-artificial",
+              "prob": 0.927
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.93,
+          "boxes": [
+            {
+              "x1": 0.23998,
+              "y1": 0.24447,
+              "x2": 0.60882,
+              "y2": 0.7151,
+              "label": "middlefinger",
+              "prob": 0.93
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_19",
+          "position": 18000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.488,
+          "safe": 0.502,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.4353,
+            "y1": 0.2366,
+            "x2": 0.8504,
+            "y2": 0.7723,
+            "features": {
+              "left_eye": {
+                "x": 0.7656,
+                "y": 0.5156
+              },
+              "right_eye": {
+                "x": 0.6384,
+                "y": 0.433
+              },
+              "nose_tip": {
+                "x": 0.6808,
+                "y": 0.5737
+              },
+              "left_mouth_corner": {
+                "x": 0.6518,
+                "y": 0.6741
+              },
+              "right_mouth_corner": {
+                "x": 0.5469,
+                "y": 0.6071
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.08,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.957,
+        "brightness": 0.5,
+        "contrast": 0.905,
+        "colors": {
+          "dominant": {
+            "r": 198,
+            "g": 185,
+            "b": 169,
+            "hex": "#c6b9a9"
+          },
+          "accent": [
+            {
+              "r": 167,
+              "g": 40,
+              "b": 78,
+              "hex": "#a7284e"
+            }
+          ],
+          "other": [
+            {
+              "r": 43,
+              "g": 34,
+              "b": 23,
+              "hex": "#2b2217"
+            },
+            {
+              "r": 97,
+              "g": 60,
+              "b": 48,
+              "hex": "#613c30"
+            },
+            {
+              "r": 116,
+              "g": 90,
+              "b": 69,
+              "hex": "#745a45"
+            },
+            {
+              "r": 108,
+              "g": 101,
+              "b": 97,
+              "hex": "#6c6561"
+            },
+            {
+              "r": 150,
+              "g": 113,
+              "b": 105,
+              "hex": "#967169"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.979,
+          "has_natural": 0.1958,
+          "boxes": [
+            {
+              "x1": 0.80247,
+              "y1": 0.908,
+              "x2": 0.98365,
+              "y2": 0.99417,
+              "label": "text-artificial",
+              "prob": 0.979
+            },
+            {
+              "x1": 0.21268,
+              "y1": 0,
+              "x2": 0.56631,
+              "y2": 0.07526,
+              "label": "text-artificial",
+              "prob": 0.951
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.863,
+          "boxes": [
+            {
+              "x1": 0.22394,
+              "y1": 0.25645,
+              "x2": 0.6023,
+              "y2": 0.76124,
+              "label": "middlefinger",
+              "prob": 0.863
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_20",
+          "position": 19000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.003,
+        "nudity": {
+          "raw": 0.924,
+          "safe": 0.066,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.4219,
+            "y1": 0.3125,
+            "x2": 0.8013,
+            "y2": 0.7924,
+            "features": {
+              "left_eye": {
+                "x": 0.75,
+                "y": 0.5714
+              },
+              "right_eye": {
+                "x": 0.6317,
+                "y": 0.4821
+              },
+              "nose_tip": {
+                "x": 0.6763,
+                "y": 0.6183
+              },
+              "left_mouth_corner": {
+                "x": 0.6317,
+                "y": 0.7098
+              },
+              "right_mouth_corner": {
+                "x": 0.5268,
+                "y": 0.6317
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.06,
+              "sunglasses": 0.02
+            }
+          }
+        ],
+        "sharpness": 0.958,
+        "brightness": 0.458,
+        "contrast": 0.906,
+        "colors": {
+          "dominant": {
+            "r": 42,
+            "g": 36,
+            "b": 26,
+            "hex": "#2a241a"
+          },
+          "accent": [
+            {
+              "r": 137,
+              "g": 36,
+              "b": 66,
+              "hex": "#892442"
+            }
+          ],
+          "other": [
+            {
+              "r": 195,
+              "g": 182,
+              "b": 165,
+              "hex": "#c3b6a5"
+            },
+            {
+              "r": 93,
+              "g": 63,
+              "b": 47,
+              "hex": "#5d3f2f"
+            },
+            {
+              "r": 117,
+              "g": 90,
+              "b": 68,
+              "hex": "#755a44"
+            },
+            {
+              "r": 108,
+              "g": 103,
+              "b": 99,
+              "hex": "#6c6763"
+            },
+            {
+              "r": 149,
+              "g": 113,
+              "b": 102,
+              "hex": "#957166"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.979,
+          "has_natural": 0.1958,
+          "boxes": [
+            {
+              "x1": 0.8019,
+              "y1": 0.90872,
+              "x2": 0.98275,
+              "y2": 0.99504,
+              "label": "text-artificial",
+              "prob": 0.979
+            },
+            {
+              "x1": 0.21271,
+              "y1": 0,
+              "x2": 0.56682,
+              "y2": 0.06886,
+              "label": "text-artificial",
+              "prob": 0.916
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.767,
+          "boxes": [
+            {
+              "x1": 0.21804,
+              "y1": 0.25315,
+              "x2": 0.61442,
+              "y2": 0.78224,
+              "label": "middlefinger",
+              "prob": 0.767
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_21",
+          "position": 20000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.572,
+          "safe": 0.418,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.4754,
+            "y1": 0.2768,
+            "x2": 0.8415,
+            "y2": 0.7679,
+            "features": {
+              "left_eye": {
+                "x": 0.75,
+                "y": 0.5246
+              },
+              "right_eye": {
+                "x": 0.6406,
+                "y": 0.4576
+              },
+              "nose_tip": {
+                "x": 0.6696,
+                "y": 0.5826
+              },
+              "left_mouth_corner": {
+                "x": 0.654,
+                "y": 0.6674
+              },
+              "right_mouth_corner": {
+                "x": 0.5625,
+                "y": 0.6094
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.09,
+              "sunglasses": 0.1
+            }
+          }
+        ],
+        "sharpness": 0.959,
+        "brightness": 0.477,
+        "contrast": 0.905,
+        "colors": {
+          "dominant": {
+            "r": 196,
+            "g": 183,
+            "b": 166,
+            "hex": "#c4b7a6"
+          },
+          "other": [
+            {
+              "r": 43,
+              "g": 35,
+              "b": 25,
+              "hex": "#2b2319"
+            },
+            {
+              "r": 90,
+              "g": 64,
+              "b": 47,
+              "hex": "#5a402f"
+            },
+            {
+              "r": 117,
+              "g": 91,
+              "b": 69,
+              "hex": "#755b45"
+            },
+            {
+              "r": 108,
+              "g": 101,
+              "b": 98,
+              "hex": "#6c6562"
+            },
+            {
+              "r": 149,
+              "g": 113,
+              "b": 101,
+              "hex": "#957165"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.986,
+          "has_natural": 0.1972,
+          "boxes": [
+            {
+              "x1": 0.8004,
+              "y1": 0.91027,
+              "x2": 0.98154,
+              "y2": 0.994,
+              "label": "text-artificial",
+              "prob": 0.986
+            },
+            {
+              "x1": 0.21312,
+              "y1": 0,
+              "x2": 0.56318,
+              "y2": 0.07211,
+              "label": "text-artificial",
+              "prob": 0.93
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.87,
+          "boxes": [
+            {
+              "x1": 0.21856,
+              "y1": 0.24589,
+              "x2": 0.63313,
+              "y2": 0.78734,
+              "label": "middlefinger",
+              "prob": 0.87
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_22",
+          "position": 21000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.787,
+          "safe": 0.203,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.5201,
+            "y1": 0.4576,
+            "x2": 0.9665,
+            "y2": 0.8326,
+            "features": {
+              "left_eye": {
+                "x": 0.8674,
+                "y": 0.69
+              },
+              "right_eye": {
+                "x": 0.7301,
+                "y": 0.5682
+              },
+              "nose_tip": {
+                "x": 0.7222,
+                "y": 0.7197
+              },
+              "left_mouth_corner": {
+                "x": 0.7143,
+                "y": 0.8221
+              },
+              "right_mouth_corner": {
+                "x": 0.6062,
+                "y": 0.7196
+              }
+            },
+            "attributes": {
+              "female": 0.91,
+              "male": 0.09,
+              "minor": 0.68,
+              "sunglasses": 0.05
+            }
+          }
+        ],
+        "sharpness": 0.956,
+        "brightness": 0.522,
+        "contrast": 0.906,
+        "colors": {
+          "dominant": {
+            "r": 46,
+            "g": 41,
+            "b": 31,
+            "hex": "#2e291f"
+          },
+          "accent": [
+            {
+              "r": 171,
+              "g": 35,
+              "b": 82,
+              "hex": "#ab2352"
+            },
+            {
+              "r": 112,
+              "g": 44,
+              "b": 60,
+              "hex": "#702c3c"
+            },
+            {
+              "r": 106,
+              "g": 22,
+              "b": 44,
+              "hex": "#6a162c"
+            }
+          ],
+          "other": [
+            {
+              "r": 194,
+              "g": 182,
+              "b": 165,
+              "hex": "#c2b6a5"
+            },
+            {
+              "r": 121,
+              "g": 92,
+              "b": 68,
+              "hex": "#795c44"
+            },
+            {
+              "r": 113,
+              "g": 108,
+              "b": 104,
+              "hex": "#716c68"
+            },
+            {
+              "r": 159,
+              "g": 114,
+              "b": 103,
+              "hex": "#9f7267"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.952,
+          "has_natural": 0.1904,
+          "boxes": [
+            {
+              "x1": 0.79244,
+              "y1": 0.91199,
+              "x2": 0.97757,
+              "y2": 0.99449,
+              "label": "text-artificial",
+              "prob": 0.952
+            },
+            {
+              "x1": 0.21328,
+              "y1": 0,
+              "x2": 0.569,
+              "y2": 0.07339,
+              "label": "text-artificial",
+              "prob": 0.88
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.799,
+          "boxes": [
+            {
+              "x1": 0.22685,
+              "y1": 0.31316,
+              "x2": 0.6527,
+              "y2": 0.89706,
+              "label": "middlefinger",
+              "prob": 0.799
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_23",
+          "position": 22000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.207,
+          "safe": 0.783,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.4888,
+            "y1": 0.5089,
+            "x2": 0.8862,
+            "y2": 0.8103,
+            "features": {
+              "left_eye": {
+                "x": 0.8047,
+                "y": 0.7287
+              },
+              "right_eye": {
+                "x": 0.7242,
+                "y": 0.6205
+              },
+              "nose_tip": {
+                "x": 0.7354,
+                "y": 0.7559
+              },
+              "left_mouth_corner": {
+                "x": 0.6579,
+                "y": 0.8315
+              },
+              "right_mouth_corner": {
+                "x": 0.6022,
+                "y": 0.7529
+              }
+            },
+            "attributes": {
+              "female": 0.8200000000000001,
+              "male": 0.18,
+              "minor": 0.27,
+              "sunglasses": 0.05
+            }
+          }
+        ],
+        "sharpness": 0.956,
+        "brightness": 0.529,
+        "contrast": 0.9,
+        "colors": {
+          "dominant": {
+            "r": 189,
+            "g": 180,
+            "b": 164,
+            "hex": "#bdb4a4"
+          },
+          "other": [
+            {
+              "r": 44,
+              "g": 40,
+              "b": 33,
+              "hex": "#2c2821"
+            },
+            {
+              "r": 92,
+              "g": 65,
+              "b": 45,
+              "hex": "#5c412d"
+            },
+            {
+              "r": 118,
+              "g": 92,
+              "b": 66,
+              "hex": "#765c42"
+            },
+            {
+              "r": 97,
+              "g": 103,
+              "b": 105,
+              "hex": "#616769"
+            },
+            {
+              "r": 145,
+              "g": 115,
+              "b": 96,
+              "hex": "#917360"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.939,
+          "has_natural": 0.1878,
+          "boxes": [
+            {
+              "x1": 0.79596,
+              "y1": 0.9133,
+              "x2": 0.9694,
+              "y2": 0.99514,
+              "label": "text-artificial",
+              "prob": 0.939
+            },
+            {
+              "x1": 0.20551,
+              "y1": 0,
+              "x2": 0.57255,
+              "y2": 0.07539,
+              "label": "text-artificial",
+              "prob": 0.808
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.84,
+          "boxes": [
+            {
+              "x1": 0.23522,
+              "y1": 0.34936,
+              "x2": 0.65595,
+              "y2": 0.89398,
+              "label": "middlefinger",
+              "prob": 0.84
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_24",
+          "position": 23000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.2991,
+            "y1": 0.4129,
+            "x2": 0.7433,
+            "y2": 0.7277,
+            "features": {
+              "left_eye": {
+                "x": 0.6501,
+                "y": 0.635
+              },
+              "right_eye": {
+                "x": 0.5755,
+                "y": 0.5415
+              },
+              "nose_tip": {
+                "x": 0.595,
+                "y": 0.7003
+              },
+              "left_mouth_corner": {
+                "x": 0.4948,
+                "y": 0.7633
+              },
+              "right_mouth_corner": {
+                "x": 0.4405,
+                "y": 0.6916
+              }
+            },
+            "attributes": {
+              "female": 0.9299999999999999,
+              "male": 0.07,
+              "minor": 0.1,
+              "sunglasses": 0.08
+            }
+          }
+        ],
+        "sharpness": 0.949,
+        "brightness": 0.517,
+        "contrast": 0.909,
+        "colors": {
+          "dominant": {
+            "r": 177,
+            "g": 164,
+            "b": 151,
+            "hex": "#b1a497"
+          },
+          "other": [
+            {
+              "r": 43,
+              "g": 39,
+              "b": 34,
+              "hex": "#2b2722"
+            },
+            {
+              "r": 104,
+              "g": 105,
+              "b": 101,
+              "hex": "#686965"
+            },
+            {
+              "r": 85,
+              "g": 68,
+              "b": 57,
+              "hex": "#554439"
+            },
+            {
+              "r": 222,
+              "g": 232,
+              "b": 236,
+              "hex": "#dee8ec"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.586,
+          "has_natural": 0.632,
+          "boxes": [
+            {
+              "x1": 0.7955,
+              "y1": 0.90607,
+              "x2": 0.98254,
+              "y2": 0.99567,
+              "label": "text-artificial",
+              "prob": 0.586
+            },
+            {
+              "x1": 0.21652,
+              "y1": 0,
+              "x2": 0.57786,
+              "y2": 0.07349,
+              "label": "text-natural",
+              "prob": 0.632
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.394,
+          "boxes": [
+            {
+              "x1": 0.20218,
+              "y1": 0.28458,
+              "x2": 0.53117,
+              "y2": 0.77893,
+              "label": "middlefinger",
+              "prob": 0.394
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_25",
+          "position": 24000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.957,
+          "safe": 0.033,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3371,
+            "y1": 0.3259,
+            "x2": 0.7478,
+            "y2": 0.6138,
+            "features": {
+              "left_eye": {
+                "x": 0.6483,
+                "y": 0.5381
+              },
+              "right_eye": {
+                "x": 0.5953,
+                "y": 0.4553
+              },
+              "nose_tip": {
+                "x": 0.573,
+                "y": 0.5996
+              },
+              "left_mouth_corner": {
+                "x": 0.4867,
+                "y": 0.6288
+              },
+              "right_mouth_corner": {
+                "x": 0.4474,
+                "y": 0.5562
+              }
+            },
+            "attributes": {
+              "female": 0.49,
+              "male": 0.51,
+              "minor": 0.24,
+              "sunglasses": 0.02
+            }
+          }
+        ],
+        "sharpness": 0.914,
+        "brightness": 0.457,
+        "contrast": 0.915,
+        "colors": {
+          "dominant": {
+            "r": 211,
+            "g": 204,
+            "b": 199,
+            "hex": "#d3ccc7"
+          },
+          "other": [
+            {
+              "r": 54,
+              "g": 50,
+              "b": 39,
+              "hex": "#363227"
+            },
+            {
+              "r": 156,
+              "g": 133,
+              "b": 115,
+              "hex": "#9c8573"
+            },
+            {
+              "r": 175,
+              "g": 181,
+              "b": 183,
+              "hex": "#afb5b7"
+            },
+            {
+              "r": 111,
+              "g": 123,
+              "b": 114,
+              "hex": "#6f7b72"
+            },
+            {
+              "r": 160,
+              "g": 159,
+              "b": 169,
+              "hex": "#a09fa9"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.704,
+          "has_natural": 0.1408,
+          "boxes": [
+            {
+              "x1": 0.80098,
+              "y1": 0.90966,
+              "x2": 0.98177,
+              "y2": 0.98698,
+              "label": "text-artificial",
+              "prob": 0.704
+            },
+            {
+              "x1": 0.21741,
+              "y1": 0,
+              "x2": 0.58551,
+              "y2": 0.06691,
+              "label": "text-artificial",
+              "prob": 0.681
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.53,
+          "boxes": [
+            {
+              "x1": 0.21227,
+              "y1": 0.20434,
+              "x2": 0.54066,
+              "y2": 0.72877,
+              "label": "middlefinger",
+              "prob": 0.53
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_26",
+          "position": 25000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.048,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3147,
+            "y1": 0.067,
+            "x2": 0.8036,
+            "y2": 0.4196,
+            "features": {
+              "left_eye": {
+                "x": 0.6666,
+                "y": 0.36
+              },
+              "right_eye": {
+                "x": 0.6103,
+                "y": 0.2224
+              },
+              "nose_tip": {
+                "x": 0.5897,
+                "y": 0.3786
+              },
+              "left_mouth_corner": {
+                "x": 0.4746,
+                "y": 0.4605
+              },
+              "right_mouth_corner": {
+                "x": 0.4324,
+                "y": 0.3561
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.07,
+              "sunglasses": 0.02
+            }
+          }
+        ],
+        "sharpness": 0.861,
+        "brightness": 0.387,
+        "contrast": 0.927,
+        "colors": {
+          "dominant": {
+            "r": 210,
+            "g": 210,
+            "b": 205,
+            "hex": "#d2d2cd"
+          },
+          "other": [
+            {
+              "r": 43,
+              "g": 35,
+              "b": 23,
+              "hex": "#2b2317"
+            },
+            {
+              "r": 170,
+              "g": 169,
+              "b": 164,
+              "hex": "#aaa9a4"
+            },
+            {
+              "r": 143,
+              "g": 122,
+              "b": 99,
+              "hex": "#8f7a63"
+            },
+            {
+              "r": 142,
+              "g": 143,
+              "b": 152,
+              "hex": "#8e8f98"
+            },
+            {
+              "r": 110,
+              "g": 108,
+              "b": 104,
+              "hex": "#6e6c68"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.777,
+          "has_natural": 0.1554,
+          "boxes": [
+            {
+              "x1": 0.78246,
+              "y1": 0.90758,
+              "x2": 0.98252,
+              "y2": 0.99028,
+              "label": "text-artificial",
+              "prob": 0.777
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.64,
+          "boxes": [
+            {
+              "x1": 0.19821,
+              "y1": 0.00529,
+              "x2": 0.53725,
+              "y2": 0.54182,
+              "label": "middlefinger",
+              "prob": 0.64
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_27",
+          "position": 26000
+        },
+        "weapon": 0,
+        "alcohol": 0,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.209,
+          "safe": 0.781,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3504,
+            "y1": 0.1295,
+            "x2": 0.8304,
+            "y2": 0.4799,
+            "features": {
+              "left_eye": {
+                "x": 0.7257,
+                "y": 0.3954
+              },
+              "right_eye": {
+                "x": 0.6417,
+                "y": 0.2455
+              },
+              "nose_tip": {
+                "x": 0.6485,
+                "y": 0.3911
+              },
+              "left_mouth_corner": {
+                "x": 0.538,
+                "y": 0.5167
+              },
+              "right_mouth_corner": {
+                "x": 0.4752,
+                "y": 0.4035
+              }
+            },
+            "attributes": {
+              "female": 0.9,
+              "male": 0.1,
+              "minor": 0.11,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.894,
+        "brightness": 0.3,
+        "contrast": 0.922,
+        "colors": {
+          "dominant": {
+            "r": 209,
+            "g": 207,
+            "b": 197,
+            "hex": "#d1cfc5"
+          },
+          "other": [
+            {
+              "r": 46,
+              "g": 38,
+              "b": 25,
+              "hex": "#2e2619"
+            },
+            {
+              "r": 165,
+              "g": 164,
+              "b": 154,
+              "hex": "#a5a49a"
+            },
+            {
+              "r": 143,
+              "g": 125,
+              "b": 103,
+              "hex": "#8f7d67"
+            },
+            {
+              "r": 108,
+              "g": 111,
+              "b": 101,
+              "hex": "#6c6f65"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.573,
+          "has_natural": 0.1146,
+          "boxes": [
+            {
+              "x1": 0.78867,
+              "y1": 0.90378,
+              "x2": 0.98737,
+              "y2": 0.98812,
+              "label": "text-artificial",
+              "prob": 0.573
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.83,
+          "boxes": [
+            {
+              "x1": 0.2208,
+              "y1": 0.02876,
+              "x2": 0.59468,
+              "y2": 0.53125,
+              "label": "middlefinger",
+              "prob": 0.83
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_28",
+          "position": 27000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.008,
+        "nudity": {
+          "raw": 0.422,
+          "safe": 0.568,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3125,
+            "y1": 0.1295,
+            "x2": 0.7433,
+            "y2": 0.4487,
+            "features": {
+              "left_eye": {
+                "x": 0.6412,
+                "y": 0.3695
+              },
+              "right_eye": {
+                "x": 0.5564,
+                "y": 0.2406
+              },
+              "nose_tip": {
+                "x": 0.5807,
+                "y": 0.3942
+              },
+              "left_mouth_corner": {
+                "x": 0.5052,
+                "y": 0.4867
+              },
+              "right_mouth_corner": {
+                "x": 0.4297,
+                "y": 0.3782
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.12,
+              "sunglasses": 0.02
+            }
+          }
+        ],
+        "sharpness": 0.898,
+        "brightness": 0.39,
+        "contrast": 0.925,
+        "colors": {
+          "dominant": {
+            "r": 218,
+            "g": 218,
+            "b": 208,
+            "hex": "#dadad0"
+          },
+          "other": [
+            {
+              "r": 54,
+              "g": 45,
+              "b": 32,
+              "hex": "#362d20"
+            },
+            {
+              "r": 152,
+              "g": 132,
+              "b": 108,
+              "hex": "#98846c"
+            },
+            {
+              "r": 173,
+              "g": 173,
+              "b": 163,
+              "hex": "#adada3"
+            },
+            {
+              "r": 117,
+              "g": 119,
+              "b": 104,
+              "hex": "#757768"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.583,
+          "has_natural": 0.1166,
+          "boxes": [
+            {
+              "x1": 0.78893,
+              "y1": 0.90378,
+              "x2": 0.97724,
+              "y2": 0.99037,
+              "label": "text-artificial",
+              "prob": 0.583
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.86,
+          "boxes": [
+            {
+              "x1": 0.2014,
+              "y1": 0.00793,
+              "x2": 0.51394,
+              "y2": 0.50299,
+              "label": "middlefinger",
+              "prob": 0.86
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_29",
+          "position": 28000
+        },
+        "weapon": 0,
+        "alcohol": 0.004,
+        "drugs": 0.013,
+        "nudity": {
+          "raw": 0.598,
+          "safe": 0.392,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.2902,
+            "y1": 0.1228,
+            "x2": 0.7478,
+            "y2": 0.6652,
+            "features": {
+              "left_eye": {
+                "x": 0.6741,
+                "y": 0.4219
+              },
+              "right_eye": {
+                "x": 0.5558,
+                "y": 0.3192
+              },
+              "nose_tip": {
+                "x": 0.6138,
+                "y": 0.4531
+              },
+              "left_mouth_corner": {
+                "x": 0.5469,
+                "y": 0.5647
+              },
+              "right_mouth_corner": {
+                "x": 0.4576,
+                "y": 0.4799
+              }
+            },
+            "attributes": {
+              "female": 0.91,
+              "male": 0.09,
+              "minor": 0.07,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.913,
+        "brightness": 0.44,
+        "contrast": 0.916,
+        "colors": {
+          "dominant": {
+            "r": 216,
+            "g": 213,
+            "b": 199,
+            "hex": "#d8d5c7"
+          },
+          "other": [
+            {
+              "r": 54,
+              "g": 45,
+              "b": 30,
+              "hex": "#362d1e"
+            },
+            {
+              "r": 179,
+              "g": 174,
+              "b": 156,
+              "hex": "#b3ae9c"
+            },
+            {
+              "r": 151,
+              "g": 133,
+              "b": 108,
+              "hex": "#97856c"
+            },
+            {
+              "r": 117,
+              "g": 122,
+              "b": 104,
+              "hex": "#757a68"
+            },
+            {
+              "r": 154,
+              "g": 154,
+              "b": 158,
+              "hex": "#9a9a9e"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.756,
+          "has_natural": 0.1512,
+          "boxes": [
+            {
+              "x1": 0.20565,
+              "y1": 0,
+              "x2": 0.59531,
+              "y2": 0.06787,
+              "label": "text-artificial",
+              "prob": 0.756
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.87,
+          "boxes": [
+            {
+              "x1": 0.20431,
+              "y1": 0.11172,
+              "x2": 0.51394,
+              "y2": 0.58729,
+              "label": "middlefinger",
+              "prob": 0.87
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_30",
+          "position": 29000
+        },
+        "weapon": 0,
+        "alcohol": 0.004,
+        "drugs": 0.011,
+        "nudity": {
+          "raw": 0.053,
+          "safe": 0.938,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.2835,
+            "y1": 0.1295,
+            "x2": 0.7366,
+            "y2": 0.6607,
+            "features": {
+              "left_eye": {
+                "x": 0.654,
+                "y": 0.3973
+              },
+              "right_eye": {
+                "x": 0.5201,
+                "y": 0.308
+              },
+              "nose_tip": {
+                "x": 0.5871,
+                "y": 0.4375
+              },
+              "left_mouth_corner": {
+                "x": 0.5446,
+                "y": 0.5558
+              },
+              "right_mouth_corner": {
+                "x": 0.4375,
+                "y": 0.4777
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.04,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.902,
+        "brightness": 0.423,
+        "contrast": 0.919,
+        "colors": {
+          "dominant": {
+            "r": 56,
+            "g": 47,
+            "b": 34,
+            "hex": "#382f22"
+          },
+          "other": [
+            {
+              "r": 218,
+              "g": 217,
+              "b": 206,
+              "hex": "#dad9ce"
+            },
+            {
+              "r": 179,
+              "g": 175,
+              "b": 159,
+              "hex": "#b3af9f"
+            },
+            {
+              "r": 156,
+              "g": 135,
+              "b": 112,
+              "hex": "#9c8770"
+            },
+            {
+              "r": 122,
+              "g": 120,
+              "b": 103,
+              "hex": "#7a7867"
+            },
+            {
+              "r": 155,
+              "g": 154,
+              "b": 157,
+              "hex": "#9b9a9d"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.626,
+          "has_natural": 0.1252,
+          "boxes": [
+            {
+              "x1": 0.21274,
+              "y1": 0.00345,
+              "x2": 0.57423,
+              "y2": 0.06237,
+              "label": "text-artificial",
+              "prob": 0.626
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.658,
+          "boxes": [
+            {
+              "x1": 0.20136,
+              "y1": 0.11082,
+              "x2": 0.48475,
+              "y2": 0.56379,
+              "label": "middlefinger",
+              "prob": 0.658
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_31",
+          "position": 30000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.005,
+        "nudity": {
+          "raw": 0.968,
+          "safe": 0.022,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3616,
+            "y1": 0.1942,
+            "x2": 0.7478,
+            "y2": 0.6496,
+            "features": {
+              "left_eye": {
+                "x": 0.6496,
+                "y": 0.4241
+              },
+              "right_eye": {
+                "x": 0.529,
+                "y": 0.3527
+              },
+              "nose_tip": {
+                "x": 0.567,
+                "y": 0.4888
+              },
+              "left_mouth_corner": {
+                "x": 0.5469,
+                "y": 0.5692
+              },
+              "right_mouth_corner": {
+                "x": 0.4509,
+                "y": 0.5089
+              }
+            },
+            "attributes": {
+              "female": 0.97,
+              "male": 0.03,
+              "minor": 0.02,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.906,
+        "brightness": 0.415,
+        "contrast": 0.921,
+        "colors": {
+          "dominant": {
+            "r": 214,
+            "g": 211,
+            "b": 200,
+            "hex": "#d6d3c8"
+          },
+          "other": [
+            {
+              "r": 54,
+              "g": 46,
+              "b": 34,
+              "hex": "#362e22"
+            },
+            {
+              "r": 152,
+              "g": 132,
+              "b": 110,
+              "hex": "#98846e"
+            },
+            {
+              "r": 173,
+              "g": 172,
+              "b": 161,
+              "hex": "#adaca1"
+            },
+            {
+              "r": 115,
+              "g": 122,
+              "b": 106,
+              "hex": "#737a6a"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.575,
+          "has_natural": 0.115,
+          "boxes": [
+            {
+              "x1": 0.20466,
+              "y1": 0,
+              "x2": 0.55729,
+              "y2": 0.06263,
+              "label": "text-artificial",
+              "prob": 0.575
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.77,
+          "boxes": [
+            {
+              "x1": 0.19966,
+              "y1": 0.11895,
+              "x2": 0.51003,
+              "y2": 0.58186,
+              "label": "middlefinger",
+              "prob": 0.77
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_32",
+          "position": 31000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.007,
+        "nudity": {
+          "raw": 0.601,
+          "safe": 0.389,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3348,
+            "y1": 0.2455,
+            "x2": 0.7344,
+            "y2": 0.5402,
+            "features": {
+              "left_eye": {
+                "x": 0.6402,
+                "y": 0.4526
+              },
+              "right_eye": {
+                "x": 0.5522,
+                "y": 0.3539
+              },
+              "nose_tip": {
+                "x": 0.5736,
+                "y": 0.4936
+              },
+              "left_mouth_corner": {
+                "x": 0.5258,
+                "y": 0.5805
+              },
+              "right_mouth_corner": {
+                "x": 0.4379,
+                "y": 0.4817
+              }
+            },
+            "attributes": {
+              "female": 0.99,
+              "male": 0.01,
+              "minor": 0.03,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.905,
+        "brightness": 0.413,
+        "contrast": 0.92,
+        "colors": {
+          "dominant": {
+            "r": 215,
+            "g": 212,
+            "b": 202,
+            "hex": "#d7d4ca"
+          },
+          "other": [
+            {
+              "r": 55,
+              "g": 47,
+              "b": 35,
+              "hex": "#372f23"
+            },
+            {
+              "r": 152,
+              "g": 130,
+              "b": 108,
+              "hex": "#98826c"
+            },
+            {
+              "r": 173,
+              "g": 172,
+              "b": 162,
+              "hex": "#adaca2"
+            },
+            {
+              "r": 115,
+              "g": 120,
+              "b": 105,
+              "hex": "#737869"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.59,
+          "has_natural": 0.118,
+          "boxes": [
+            {
+              "x1": 0.21206,
+              "y1": 0,
+              "x2": 0.58368,
+              "y2": 0.06529,
+              "label": "text-artificial",
+              "prob": 0.59
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.84,
+          "boxes": [
+            {
+              "x1": 0.20595,
+              "y1": 0.12442,
+              "x2": 0.48466,
+              "y2": 0.54643,
+              "label": "middlefinger",
+              "prob": 0.84
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_33",
+          "position": 32000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.016,
+        "nudity": {
+          "raw": 0.837,
+          "safe": 0.153,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3795,
+            "y1": 0.2299,
+            "x2": 0.75,
+            "y2": 0.6429,
+            "features": {
+              "left_eye": {
+                "x": 0.683,
+                "y": 0.4643
+              },
+              "right_eye": {
+                "x": 0.5781,
+                "y": 0.3906
+              },
+              "nose_tip": {
+                "x": 0.6183,
+                "y": 0.5313
+              },
+              "left_mouth_corner": {
+                "x": 0.5804,
+                "y": 0.5915
+              },
+              "right_mouth_corner": {
+                "x": 0.4933,
+                "y": 0.5335
+              }
+            },
+            "attributes": {
+              "female": 0.98,
+              "male": 0.02,
+              "minor": 0.04,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.91,
+        "brightness": 0.452,
+        "contrast": 0.923,
+        "colors": {
+          "dominant": {
+            "r": 220,
+            "g": 216,
+            "b": 207,
+            "hex": "#dcd8cf"
+          },
+          "other": [
+            {
+              "r": 51,
+              "g": 44,
+              "b": 31,
+              "hex": "#332c1f"
+            },
+            {
+              "r": 179,
+              "g": 174,
+              "b": 162,
+              "hex": "#b3aea2"
+            },
+            {
+              "r": 154,
+              "g": 132,
+              "b": 110,
+              "hex": "#9a846e"
+            },
+            {
+              "r": 114,
+              "g": 126,
+              "b": 111,
+              "hex": "#727e6f"
+            },
+            {
+              "r": 157,
+              "g": 154,
+              "b": 158,
+              "hex": "#9d9a9e"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.731,
+          "has_natural": 0.1462,
+          "boxes": [
+            {
+              "x1": 0.21678,
+              "y1": 0.00055,
+              "x2": 0.58101,
+              "y2": 0.07032,
+              "label": "text-artificial",
+              "prob": 0.731
+            }
+          ]
+        },
+        "offensive": {
+          "prob": 0.86,
+          "boxes": [
+            {
+              "x1": 0.21454,
+              "y1": 0.15724,
+              "x2": 0.51988,
+              "y2": 0.6294,
+              "label": "middlefinger",
+              "prob": 0.86
+            }
+          ]
+        }
+      },
+      {
+        "info": {
+          "id": "med_86qbqzKfap1kDBgJoexL8_34",
+          "position": 33000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.004,
+        "nudity": {
+          "raw": 0.635,
+          "safe": 0.355,
+          "partial": 0.01
+        },
+        "faces": [
+          {
+            "x1": 0.3705,
+            "y1": 0.3705,
+            "x2": 0.7835,
+            "y2": 0.654,
+            "features": {
+              "left_eye": {
+                "x": 0.6765,
+                "y": 0.5914
+              },
+              "right_eye": {
+                "x": 0.6373,
+                "y": 0.4878
+              },
+              "nose_tip": {
+                "x": 0.613,
+                "y": 0.6332
+              },
+              "left_mouth_corner": {
+                "x": 0.4994,
+                "y": 0.673
+              },
+              "right_mouth_corner": {
+                "x": 0.4742,
+                "y": 0.6026
+              }
+            },
+            "attributes": {
+              "female": 0.96,
+              "male": 0.04,
+              "minor": 0.04,
+              "sunglasses": 0.01
+            }
+          }
+        ],
+        "sharpness": 0.913,
+        "brightness": 0.41,
+        "contrast": 0.92,
+        "colors": {
+          "dominant": {
+            "r": 217,
+            "g": 210,
+            "b": 200,
+            "hex": "#d9d2c8"
+          },
+          "other": [
+            {
+              "r": 48,
+              "g": 44,
+              "b": 33,
+              "hex": "#302c21"
+            },
+            {
+              "r": 151,
+              "g": 132,
+              "b": 108,
+              "hex": "#97846c"
+            },
+            {
+              "r": 172,
+              "g": 173,
+              "b": 164,
+              "hex": "#acada4"
+            },
+            {
+              "r": 108,
+              "g": 124,
+              "b": 112,
+              "hex": "#6c7c70"
+            }
+          ]
+        },
+        "text": {
+          "has_artificial": 0.01,
+          "has_natural": 0.01
+        },
+        "offensive": {
+          "prob": 0.835,
+          "boxes": [
+            {
+              "x1": 0.20223,
+              "y1": 0.21288,
+              "x2": 0.55875,
+              "y2": 0.68833,
+              "label": "middlefinger",
+              "prob": 0.835
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

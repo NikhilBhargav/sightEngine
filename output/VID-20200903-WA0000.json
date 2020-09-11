@@ -1,0 +1,196 @@
+{
+  "status": "success",
+  "request": {
+    "id": "req_86PfnlYNuOVEM5cGmTAad",
+    "timestamp": 1599200744.691827,
+    "operations": 40
+  },
+  "media": {
+    "id": "med_86Pfv6w9SKhafi0hPz871",
+    "uri": "https://github.com/NikhilBhargav/sightEngine/blob/master/input/VID-20200903-WA0000.mp4?raw=true"
+  },
+  "data": {
+    "frames": [
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_1",
+          "position": 0
+        },
+        "weapon": 0.001,
+        "alcohol": 0,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_2",
+          "position": 1000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.873,
+          "safe": 0.118,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_3",
+          "position": 2000
+        },
+        "weapon": 0,
+        "alcohol": 0.006,
+        "drugs": 0.06,
+        "nudity": {
+          "raw": 0.979,
+          "safe": 0.011,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_4",
+          "position": 3000
+        },
+        "weapon": 0,
+        "alcohol": 0.003,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_5",
+          "position": 4000
+        },
+        "weapon": 0,
+        "alcohol": 0.002,
+        "drugs": 0.003,
+        "nudity": {
+          "raw": 0.939,
+          "safe": 0.052,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_6",
+          "position": 5000
+        },
+        "weapon": 0.01,
+        "alcohol": 0.053,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_7",
+          "position": 6000
+        },
+        "weapon": 0.002,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.466,
+          "safe": 0.524,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_8",
+          "position": 7000
+        },
+        "weapon": 0.001,
+        "alcohol": 0.004,
+        "drugs": 0.004,
+        "nudity": {
+          "raw": 0.978,
+          "safe": 0.012,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_9",
+          "position": 8000
+        },
+        "weapon": 0.001,
+        "alcohol": 0.004,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_86Pfv6w9SKhafi0hPz871_10",
+          "position": 9000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.98,
+          "safe": 0.01,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      }
+    ]
+  }
+}

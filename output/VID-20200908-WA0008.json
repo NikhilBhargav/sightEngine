@@ -1,0 +1,184 @@
+{
+  "status": "success",
+  "request": {
+    "id": "req_88GxveEx2gwQHUL5zQYlZ",
+    "timestamp": 1599629606.605278,
+    "operations": 36
+  },
+  "media": {
+    "id": "med_88Gxf7IslxiYWoMDmbpgx",
+    "uri": "https://github.com/NikhilBhargav/sightEngine/blob/master/input/VID-20200908-WA0008.mp4?raw=true"
+  },
+  "data": {
+    "frames": [
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_1",
+          "position": 0
+        },
+        "weapon": 0.005,
+        "alcohol": 0.007,
+        "drugs": 0.002,
+        "nudity": {
+          "raw": 0.356,
+          "safe": 0.322,
+          "partial": 0.323
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_2",
+          "position": 1000
+        },
+        "weapon": 0.002,
+        "alcohol": 0.003,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.173,
+          "safe": 0.718,
+          "partial": 0.108
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_3",
+          "position": 2000
+        },
+        "weapon": 0.002,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.137,
+          "safe": 0.023,
+          "partial": 0.839,
+          "partial_tag": "cleavage"
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_4",
+          "position": 3000
+        },
+        "weapon": 0.001,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.101,
+          "safe": 0.031,
+          "partial": 0.868,
+          "partial_tag": "cleavage"
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_5",
+          "position": 4000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.063,
+          "safe": 0.021,
+          "partial": 0.916,
+          "partial_tag": "cleavage"
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_6",
+          "position": 5000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.045,
+          "safe": 0.057,
+          "partial": 0.898,
+          "partial_tag": "cleavage"
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_7",
+          "position": 6000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0.001,
+        "nudity": {
+          "raw": 0.087,
+          "safe": 0.171,
+          "partial": 0.742,
+          "partial_tag": "cleavage"
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_8",
+          "position": 7000
+        },
+        "weapon": 0,
+        "alcohol": 0.001,
+        "drugs": 0,
+        "nudity": {
+          "raw": 0.121,
+          "safe": 0.399,
+          "partial": 0.481,
+          "partial_tag": "cleavage"
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      },
+      {
+        "info": {
+          "id": "med_88Gxf7IslxiYWoMDmbpgx_9",
+          "position": 8000
+        },
+        "weapon": 0.01,
+        "alcohol": 0.008,
+        "drugs": 0.003,
+        "nudity": {
+          "raw": 0.01,
+          "safe": 0.98,
+          "partial": 0.01
+        },
+        "faces": [],
+        "offensive": {
+          "prob": 0.01
+        }
+      }
+    ]
+  }
+}
